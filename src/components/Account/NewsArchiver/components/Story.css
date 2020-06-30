@@ -1,0 +1,18 @@
+.story {
+   display: flex;
+   height: 50px;
+
+   align-items: center;
+   background: rgba(223, 222, 222, 0.3);
+}
+.story > span {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   padding: 0 5px;
+}
+
+.story-card {
+   width: 90%;
+   margin-top: 10px;
+   justify-content: space-around;
+}

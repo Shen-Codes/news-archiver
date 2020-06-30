@@ -1,0 +1,21 @@
+#nav-div {
+   -webkit-box-shadow: 0 4px 6px -6px #222;
+   -moz-box-shadow: 0 4px 6px -6px #222;
+   box-shadow: 0 4px 6px -6px #222;
+   background-color: rgba(175, 203, 230, 0.9);
+}
+
+ul {
+   display: flex;
+   list-style-type: none;
+   align-items: center;
+}
+
+.navigation-link {
+   padding: 10px;
+}
+
+a {
+   text-decoration: none;
+   color: rgb(0, 0, 0);
+}

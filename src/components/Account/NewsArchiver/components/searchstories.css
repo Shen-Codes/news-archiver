@@ -1,0 +1,16 @@
+.search-input {
+   width: 450px;
+   align-self: center;
+}
+
+.search-button {
+   width: 60px;
+   margin-top: 10px;
+}
+form {
+   margin-top: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}

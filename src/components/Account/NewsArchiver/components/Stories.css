@@ -1,0 +1,22 @@
+.stories {
+   margin-top: 20px;
+   display: flex;
+   flex-direction: column;
+}
+
+.stories-header {
+   display: flex;
+   width: 85%;
+   margin-left: 20px;
+   text-align: left;
+   justify-content: space-around;
+}
+.stories-header > span {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   padding: 0 5px;
+}
+
+#story-div {
+   margin-left: 20px;
+}

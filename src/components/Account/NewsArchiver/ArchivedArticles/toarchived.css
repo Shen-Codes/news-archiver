@@ -1,0 +1,6 @@
+#archived-div {
+   margin: 10px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+}

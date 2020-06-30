@@ -1,0 +1,14 @@
+.article-card {
+   width: 600px;
+   margin: 10px;
+   text-align: left;
+}
+
+#article-div {
+   background: rgba(223, 222, 222, 0.3);
+   padding: 5px 0 5px 5px;
+}
+
+h3 {
+   margin: 0;
+}

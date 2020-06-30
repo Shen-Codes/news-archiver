@@ -1,0 +1,16 @@
+#signup-div {
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   margin-top: 50px;
+}
+
+form {
+   display: flex;
+   flex-direction: column;
+}
+
+.signup-input {
+   margin-bottom: 5px;
+   width: 350px;
+}
